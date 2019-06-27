@@ -1,0 +1,10 @@
+C:\Users\JK\source\repos\GamePad\GamePad\bin\Debug\GamePad.exe.config
+C:\Users\JK\source\repos\GamePad\GamePad\bin\Debug\GamePad.exe
+C:\Users\JK\source\repos\GamePad\GamePad\bin\Debug\GamePad.pdb
+C:\Users\JK\source\repos\GamePad\GamePad\obj\Debug\GamePad.csprojResolveAssemblyReference.cache
+C:\Users\JK\source\repos\GamePad\GamePad\obj\Debug\GamePad.Properties.Resources.resources
+C:\Users\JK\source\repos\GamePad\GamePad\obj\Debug\GamePad.csproj.GenerateResource.Cache
+C:\Users\JK\source\repos\GamePad\GamePad\obj\Debug\GamePad.csproj.CoreCompileInputs.cache
+C:\Users\JK\source\repos\GamePad\GamePad\obj\Debug\GamePad.exe
+C:\Users\JK\source\repos\GamePad\GamePad\obj\Debug\GamePad.pdb
+C:\Users\JK\source\repos\GamePad\GamePad\obj\Debug\GamePad.GamePad.resources
